@@ -48,9 +48,11 @@ ML/AI: PyTorch, deep learning, statistical analysis, LLM evaluation
 ## Experience
 
 Teaching Assistant — Dartmouth CS50: Software Design & Implementation
+
 Corporate Analytics Intern — Intermedia Cloud Communications
+
 Technical Intern — PredictiveHR
 
 ---
 
-Currently looking for SWE and cybersecurity internship and full-time opportunities.
+Currently looking for SWE and cybersecurity internship for Summer 2026.
