@@ -40,6 +40,7 @@ Tiny Search Engine (private — available upon request) — A search engine in C
 ## Skills
 
 Languages: Python, C, C++, Java, R, Swift
+
 ML/AI: PyTorch, deep learning, statistical analysis, LLM evaluation
 
 ---
