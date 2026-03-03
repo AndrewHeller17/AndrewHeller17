@@ -29,11 +29,11 @@ andysh17@gmail.com - [LinkedIn](https://www.linkedin.com/in/andrew-heller-77255a
 
 [GPT-2 Political Fine-Tuning](https://github.com/AndrewHeller17/ChatGPT-2-Political-Fine-Tuning) — Fine-tuned GPT-2 on political text using web scraping and RAG-based retrieval. (Python, BeautifulSoup)
 
-[Gender Bias in AI Image Generation]([https://github.com/andrewsh17/ai-image-gender-bias](https://github.com/AndrewHeller17/Gender-Bias-from-Memories-in-ChatGPT-Image-Generation)) — Measured gender bias in generative image models using chi-square and proportion tests. (Python)
+[Gender Bias in AI Image Generation](https://github.com/AndrewHeller17/Gender-Bias-from-Memories-in-ChatGPT-Image-Generation) — Measured gender bias in generative image models using chi-square and proportion tests. (Python)
 
 Tiny Search Engine (private — available upon request) — A search engine in C with a crawler, indexer, and query engine. (C)
 
-[AI vs. Real Music Classifier](https://github.com/andrewsh17/ai-music-classifier) (in progress) — Deep learning classifier to distinguish AI-generated music from real recordings. (Python, PyTorch)
+AI vs. Real Music Classifier (in progress) — Deep learning classifier to distinguish AI-generated music from real recordings. (Python, PyTorch)
 
 ---
 
