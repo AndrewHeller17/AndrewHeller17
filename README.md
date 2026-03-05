@@ -27,8 +27,6 @@ andysh17@gmail.com - [LinkedIn](https://www.linkedin.com/in/andrew-heller-77255a
 
 [LLM Emotional Framing Study](https://github.com/AndrewHeller17/Effect-of-Emotional-Framing-on-LLM-Performance) — Evaluated how emotional framing affects LLM reasoning using McNemar/Cochran tests across MMLU and GPQA benchmarks. (Python, PyTorch)
 
-[GPT-2 Political Fine-Tuning](https://github.com/AndrewHeller17/ChatGPT-2-Political-Fine-Tuning) — Fine-tuned GPT-2 on political text using web scraping and RAG-based retrieval. (Python, BeautifulSoup)
-
 [Gender Bias in AI Image Generation](https://github.com/AndrewHeller17/Gender-Bias-from-Memories-in-ChatGPT-Image-Generation) — Measured gender bias in generative image models using chi-square and proportion tests. (Python)
 
 Tiny Search Engine (private — available upon request) — A search engine in C with a crawler, indexer, and query engine. (C)
